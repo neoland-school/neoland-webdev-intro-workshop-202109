@@ -1,4 +1,4 @@
-# Neoland WebDev Intro Workshop 202109
+# Neoland WebDev Workshop 202109
 
 [Event](https://www.eventbrite.es/e/entradas-curso-100-gratis-introduccion-al-web-development-169988424955)
 
