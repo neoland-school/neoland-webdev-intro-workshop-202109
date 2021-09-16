@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+body {
+    background-color: yellow;
+}
+
+.panel {
+    border-width: 5px;
+    border-style: dashed;
+    border-color: black;
+    margin: 10px;
+}
+
+.panel__input {
+    margin-bottom: 10px;
+}
+
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__title {
+    margin-bottom: 10px;
+    font-family: Acme;
+}
+
+.login__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.login__error {
+    color: red;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.off {
+    display: none;
+}
